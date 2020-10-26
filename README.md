@@ -1,4 +1,4 @@
-# credit_risk
+# Credit Risk Analysis using Machine Learning
 ## Analysis of large amount of data to identify risk of borrowers that may not pay back loans using Machine Learning Algorithms.
 
 A large data set with statistics of loans and information on the borrowers is presented for analysis.  The status of each of the loans in the data set which belongs to low risk and high risk is used to make predictions.  The objective is analyze a large amount of data to arrive at the decision to approve or not approve a loan and while identifying the risk of borrowers that may not pay loans.  
